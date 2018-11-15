@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Item.aspx](./CS/WebSite/Item.aspx) (VB: [Item.aspx](./VB/WebSite/Item.aspx))
+<!-- default file list end -->
 # How to update a hyperlink depending on inserted ASPxGridView row values
 
 
