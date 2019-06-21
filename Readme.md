@@ -6,6 +6,9 @@
 * [Item.aspx](./CS/WebSite/Item.aspx) (VB: [Item.aspx](./VB/WebSite/Item.aspx))
 <!-- default file list end -->
 # How to update a hyperlink depending on inserted ASPxGridView row values
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4276/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to update a hyperlink depending on inserted ASPxGridView row values.<br />
